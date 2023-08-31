@@ -1,0 +1,9 @@
+{
+	"name": "mydf1556",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0e252f4f-33e6-4d72-a73c-42e7cefec4c5",
+		"tenantId": "13b125e1-962a-4658-85e3-7d21b409b9d3"
+	}
+}
