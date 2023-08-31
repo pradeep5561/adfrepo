@@ -1,0 +1,9 @@
+{
+	"name": "emp556",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1d2013b6-fbc6-41f3-a1a9-e9bb8858c9ed",
+		"tenantId": "13b125e1-962a-4658-85e3-7d21b409b9d3"
+	}
+}
