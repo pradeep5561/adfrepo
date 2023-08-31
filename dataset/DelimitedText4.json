@@ -1,0 +1,52 @@
+{
+	"name": "DelimitedText4",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage3",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "employees.csv",
+				"container": "input"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": [
+			{
+				"name": "employee_id",
+				"type": "String"
+			},
+			{
+				"name": "dob",
+				"type": "String"
+			},
+			{
+				"name": "first_name",
+				"type": "String"
+			},
+			{
+				"name": "last_name",
+				"type": "String"
+			},
+			{
+				"name": "gender",
+				"type": "String"
+			},
+			{
+				"name": "work_month",
+				"type": "String"
+			},
+			{
+				"name": "city_code",
+				"type": "String"
+			}
+		]
+	}
+}
