@@ -31,7 +31,7 @@
 			"properties": {
 				"activities": [
 					{
-						"name": "Copy emp",
+						"name": "Copy emp1",
 						"type": "Copy",
 						"dependsOn": [],
 						"policy": {
