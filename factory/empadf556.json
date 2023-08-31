@@ -1,0 +1,9 @@
+{
+	"name": "empadf556",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "980831be-4969-4d9e-b582-d5cd2391d316",
+		"tenantId": "13b125e1-962a-4658-85e3-7d21b409b9d3"
+	}
+}
